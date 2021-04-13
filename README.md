@@ -1,2 +1,2 @@
 # Cheat-Sheet
-A repository contains all sort of cheat-sheets for various things.
+A repository contains all sort of cheat-sheets & mind maps for various things.
